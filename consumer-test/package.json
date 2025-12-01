@@ -1,0 +1,12 @@
+{
+  "name": "consumer-test",
+  "version": "1.0.0",
+  "description": "Local project to test @giovannapilon/mylib",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ./index.js"
+  },
+  "author": "local",
+  "license": "MIT"
+}

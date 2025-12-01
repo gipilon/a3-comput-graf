@@ -1,0 +1,15 @@
+{
+  "name": "consumer-pack",
+  "version": "1.0.0",
+  "description": "Local project to test @giovannapilon/mylib via tarball",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ./index.js"
+  },
+  "author": "local",
+  "license": "MIT",
+  "dependencies": {
+    "@giovannapilon/mylib": "file:../mylib/giovannapilon-mylib-1.0.0.tgz"
+  }
+}
