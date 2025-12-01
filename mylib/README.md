@@ -13,7 +13,7 @@ Use:
 ```js
 import lib from '@giovannapilon/mylib';
 
-console.log(lib.getSVG('ana123'));
+console.log(lib.getSVG('giovanna'));
 ```
 
 Local test:
